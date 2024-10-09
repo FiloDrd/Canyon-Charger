@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: 0dc946395d0beb241b4c839f9482044e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -5625515407815263143
+    second: CG|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 001|BaseLayer
+  - first:
+      74: 7144964582226633565
+    second: CG|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|BaseLayer
+  - first:
+      74: 7076160961888360943
+    second: CG|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take 001|BaseLaye
+  - first:
+      74: 5939556781769909221
+    second: CG|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take 001|BaseLaye
+  - first:
+      74: -4377647502535134693
+    second: CG|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take 001|BaseLaye
+  - first:
+      74: -5961616326536842060
+    second: CG|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001|BaseLayer
+  - first:
+      74: 983123247446052691
+    second: CG|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take 001|BaseLaye
+  - first:
+      74: 2227353254415390424
+    second: CG|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Take 001|BaseLa
+  - first:
+      74: -3739960281021441686
+    second: CG|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Take 001|BaseLa
+  - first:
+      74: -3622091454455382226
+    second: CG|Back|Take 001|BaseLayer
+  - first:
+      74: 2038337484004995515
+    second: CG|CG|CG|Back|Take 001|BaseLayer|CG|Back|Take 001|BaseLayer
+  - first:
+      74: 6292916303610430024
+    second: CG|CG|CG|CG|Take 001|BaseLayer.001|CG|CG|Take 001|BaseLayer.001
+  - first:
+      74: -7320352293413929324
+    second: CG|CG|CG|CG|Take 001|BaseLayer|CG|CG|Take 001|BaseLayer
+  - first:
+      74: -4055834473825751583
+    second: CG|CG|CG|Chest|Take 001|BaseLayer|CG|Chest|Take 001|BaseLayer
+  - first:
+      74: -8375444968737685871
+    second: CG|CG|CG|Ear L|Take 001|BaseLayer|CG|Ear L|Take 001|BaseLayer
+  - first:
+      74: -4112960611795358160
+    second: CG|CG|CG|Ear R|Take 001|BaseLayer|CG|Ear R|Take 001|BaseLayer
+  - first:
+      74: -3390600049051551803
+    second: CG|CG|CG|Jaw|Take 001|BaseLayer|CG|Jaw|Take 001|BaseLayer
+  - first:
+      74: -7251073379173928476
+    second: CG|CG|CG|Neck2|Take 001|BaseLayer|CG|Neck2|Take 001|BaseLayer
+  - first:
+      74: -6108589091727442206
+    second: CG|CG|CG|Tail02|Take 001|BaseLayer|CG|Tail02|Take 001|BaseLayer
+  - first:
+      74: 9189606961016142337
+    second: CG|CG|CG|Tail03|Take 001|BaseLayer|CG|Tail03|Take 001|BaseLayer
+  - first:
+      74: 58475473422249957
+    second: CG|CG|Take 001|BaseLayer
+  - first:
+      74: 8858836746857907198
+    second: CG|CG|Take 001|BaseLayer.001
+  - first:
+      74: 4864756209417635788
+    second: CG|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Take 001|BaseLay
+  - first:
+      74: -3109481147590717128
+    second: CG|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 001|BaseLayer
+  - first:
+      74: 1774714302334537548
+    second: CG|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|Take 001|BaseL
+  - first:
+      74: 6198539808674203150
+    second: CG|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|Take 001|BaseL
+  - first:
+      74: -2153396767498024800
+    second: CG|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|Take 001|BaseL
+  - first:
+      74: 2696672960308581493
+    second: CG|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take 001|BaseLayer
+  - first:
+      74: -8696786675395824216
+    second: CG|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|Take 001|BaseL
+  - first:
+      74: 3634528576925459595
+    second: CG|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02|Take 001|Bas
+  - first:
+      74: -7143487757447225832
+    second: CG|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03|Take 001|Bas
+  - first:
+      74: 9009325401580581409
+    second: CG|Chest|Take 001|BaseLayer
+  - first:
+      74: -6505787537433671425
+    second: CG|Ear L|Take 001|BaseLayer
+  - first:
+      74: 837579970273895142
+    second: CG|Ear R|Take 001|BaseLayer
+  - first:
+      74: -5188083420615705151
+    second: CG|Jaw|Take 001|BaseLayer
+  - first:
+      74: -806855268648048099
+    second: CG|Neck2|Take 001|BaseLayer
+  - first:
+      74: 7758417251991954834
+    second: CG|Tail02|Take 001|BaseLayer
+  - first:
+      74: -8570468218273737652
+    second: CG|Tail03|Take 001|BaseLayer
+  - first:
+      74: 3583726109194974232
+    second: Chest|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 001|BaseLayer
+  - first:
+      74: 6214167015041711724
+    second: Chest|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|BaseLayer
+  - first:
+      74: 6337512236696659761
+    second: Chest|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take 001|BaseLaye
+  - first:
+      74: 6027399710826415787
+    second: Chest|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take 001|BaseLaye
+  - first:
+      74: 1040744735637783665
+    second: Chest|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take 001|BaseLaye
+  - first:
+      74: -6723330308929520751
+    second: Chest|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001|BaseLayer
+  - first:
+      74: 6248674596247874881
+    second: Chest|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take 001|BaseLaye
+  - first:
+      74: 4762330799744172235
+    second: Chest|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Take 001|BaseLa
+  - first:
+      74: 5520814012850909441
+    second: Chest|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Take 001|BaseLa
+  - first:
+      74: 2340196899906903498
+    second: Chest|Back|Take 001|BaseLayer
+  - first:
+      74: -6708520696921397163
+    second: Chest|CG|Take 001|BaseLayer
+  - first:
+      74: -5567408477157093786
+    second: Chest|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Take 001|BaseLay
+  - first:
+      74: -1290453526724231961
+    second: Chest|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 001|BaseLayer
+  - first:
+      74: -6892164477343576
+    second: Chest|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|Take 001|BaseL
+  - first:
+      74: -7961076846443199019
+    second: Chest|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|Take 001|BaseL
+  - first:
+      74: 1652622141139671016
+    second: Chest|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|Take 001|BaseL
+  - first:
+      74: -1814490995844006943
+    second: Chest|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take 001|BaseLayer
+  - first:
+      74: -2062582173555597876
+    second: Chest|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|Take 001|BaseL
+  - first:
+      74: -660385615965991308
+    second: Chest|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02|Take 001|Bas
+  - first:
+      74: 8144506165545006025
+    second: Chest|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03|Take 001|Bas
+  - first:
+      74: 6867125882250782677
+    second: Chest|Chest|Take 001|BaseLayer
+  - first:
+      74: -52436110905547536
+    second: Chest|Ear L|Take 001|BaseLayer
+  - first:
+      74: -7097932718419604704
+    second: Chest|Ear R|Take 001|BaseLayer
+  - first:
+      74: -4909986952688614190
+    second: Chest|Jaw|Take 001|BaseLayer
+  - first:
+      74: -3515499657852340008
+    second: Chest|Neck2|Take 001|BaseLayer
+  - first:
+      74: -3547053354169944524
+    second: Chest|Tail02|Take 001|BaseLayer
+  - first:
+      74: -2365593541216435928
+    second: Chest|Tail03|Take 001|BaseLayer
+  - first:
+      74: 8780824508466507615
+    second: Back|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 001|BaseLayer
+  - first:
+      74: 532253474748941828
+    second: Back|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|BaseLayer
+  - first:
+      74: -3144034211849811148
+    second: Back|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take 001|BaseLaye
+  - first:
+      74: -3348925991829059060
+    second: Back|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take 001|BaseLaye
+  - first:
+      74: -563197223850938707
+    second: Back|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take 001|BaseLaye
+  - first:
+      74: 345062524956582534
+    second: Back|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001|BaseLayer
+  - first:
+      74: -6716041088957457652
+    second: Back|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take 001|BaseLaye
+  - first:
+      74: -5537784491928297633
+    second: Back|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Take 001|BaseLa
+  - first:
+      74: -3696712370700630930
+    second: Back|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Take 001|BaseLa
+  - first:
+      74: 3076917121894085529
+    second: Back|Back|Take 001|BaseLayer
+  - first:
+      74: 6015783815019224132
+    second: Back|CG|Take 001|BaseLayer
+  - first:
+      74: 6696585846109792117
+    second: Back|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Take 001|BaseLay
+  - first:
+      74: 6710566174767937771
+    second: Back|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 001|BaseLayer
+  - first:
+      74: 6295034268858442397
+    second: Back|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|Take 001|BaseL
+  - first:
+      74: 2745525000360875590
+    second: Back|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|Take 001|BaseL
+  - first:
+      74: -3144861118634445772
+    second: Back|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|Take 001|BaseL
+  - first:
+      74: 3024548348886007713
+    second: Back|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take 001|BaseLayer
+  - first:
+      74: 3782598078707859535
+    second: Back|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|Take 001|BaseL
+  - first:
+      74: 887130851959759950
+    second: Back|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02|Take 001|Bas
+  - first:
+      74: -8134088099037328104
+    second: Back|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03|Take 001|Bas
+  - first:
+      74: -1312329930737668578
+    second: Back|Chest|Take 001|BaseLayer
+  - first:
+      74: -2292583699266973177
+    second: Back|Ear L|Take 001|BaseLayer
+  - first:
+      74: 52629696325146500
+    second: Back|Ear R|Take 001|BaseLayer
+  - first:
+      74: -823035987993524398
+    second: Back|Jaw|Take 001|BaseLayer
+  - first:
+      74: 8659830269843257611
+    second: Back|Neck2|Take 001|BaseLayer
+  - first:
+      74: 6829041270547439843
+    second: Back|Tail02|Take 001|BaseLayer
+  - first:
+      74: -6549298644048484227
+    second: Back|Tail03|Take 001|BaseLayer
+  - first:
+      74: 4815026753593243336
+    second: CG|Back|Back|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 0_ad
+  - first:
+      74: -6824439782116871027
+    second: CG|Back|Back|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|Base
+  - first:
+      74: -4515975359520612988
+    second: CG|Back|Back|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take_30
+  - first:
+      74: 2147668160684668154
+    second: CG|Back|Back|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take_b8
+  - first:
+      74: 5553753971259984454
+    second: CG|Back|Back|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take_62
+  - first:
+      74: 71324345653859735
+    second: CG|Back|Back|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001_37
+  - first:
+      74: -6720475483146846965
+    second: CG|Back|Back|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take_24
+  - first:
+      74: -2610003202326325865
+    second: CG|Back|Back|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Ta_ab
+  - first:
+      74: -2513807999758916952
+    second: CG|Back|Back|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Ta_dd
+  - first:
+      74: -3502967002443939724
+    second: CG|Back|Back|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Tak_19
+  - first:
+      74: 3084850396286957309
+    second: CG|Back|Back|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 00_65
+  - first:
+      74: -8604819413575688418
+    second: CG|Back|Back|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|T_4f
+  - first:
+      74: -2542936219242810075
+    second: CG|Back|Back|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|T_c9
+  - first:
+      74: -4068748889858430733
+    second: CG|Back|Back|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|T_16
+  - first:
+      74: 55493014573890062
+    second: CG|Back|Back|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take _1d
+  - first:
+      74: 3182349226725213693
+    second: CG|Back|Back|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|T_42
+  - first:
+      74: -4510257333178539718
+    second: CG|Back|Back|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02_f8
+  - first:
+      74: -5309768200292835744
+    second: CG|Back|Back|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03_25
+  - first:
+      74: 2728080794843496968
+    second: CG|CG|CG|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 001_d0c0
+  - first:
+      74: -1405222559718938316
+    second: CG|CG|CG|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|BaseLaye
+  - first:
+      74: -7000056565613137291
+    second: CG|CG|CG|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take 0_f726
+  - first:
+      74: 4811523676045806912
+    second: CG|CG|CG|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take 0_ea03
+  - first:
+      74: 3816819493765605342
+    second: CG|CG|CG|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take 0_6e6a
+  - first:
+      74: 4270743386753168928
+    second: CG|CG|CG|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001|BaseLa
+  - first:
+      74: -4439096025993594604
+    second: CG|CG|CG|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take 0_c68e
+  - first:
+      74: 1749162769745749565
+    second: CG|CG|CG|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Take_29b8
+  - first:
+      74: 512308516644623258
+    second: CG|CG|CG|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Take_8b67
+  - first:
+      74: 4179449673019264491
+    second: CG|CG|CG|CG|CG|Back|Take 001|BaseLayer|CG|Back|Take 001|BaseLayer|
+  - first:
+      74: -7187586941556678731
+    second: CG|CG|CG|CG|CG|CG|Take 001|BaseLayer.001|CG|CG|Take 001|BaseLayer.
+  - first:
+      74: 6788601127308469545
+    second: CG|CG|CG|CG|CG|CG|Take 001|BaseLayer|CG|CG|Take 001|BaseLayer|CG|C
+  - first:
+      74: 4423176571537917970
+    second: CG|CG|CG|CG|CG|Chest|Take 001|BaseLayer|CG|Chest|Take 001|BaseLaye
+  - first:
+      74: -304812317360104955
+    second: CG|CG|CG|CG|CG|Ear L|Take 001|BaseLayer|CG|Ear L|Take 001|BaseLaye
+  - first:
+      74: 6516494693809585355
+    second: CG|CG|CG|CG|CG|Ear R|Take 001|BaseLayer|CG|Ear R|Take 001|BaseLaye
+  - first:
+      74: 2416176878953523944
+    second: CG|CG|CG|CG|CG|Jaw|Take 001|BaseLayer|CG|Jaw|Take 001|BaseLayer|CG
+  - first:
+      74: -1607191057765927700
+    second: CG|CG|CG|CG|CG|Neck2|Take 001|BaseLayer|CG|Neck2|Take 001|BaseLaye
+  - first:
+      74: 4427029621764441363
+    second: CG|CG|CG|CG|CG|Tail02|Take 001|BaseLayer|CG|Tail02|Take 001|BaseLa
+  - first:
+      74: -147755589422557099
+    second: CG|CG|CG|CG|CG|Tail03|Take 001|BaseLayer|CG|Tail03|Take 001|BaseLa
+  - first:
+      74: 3635138693658576804
+    second: CG|CG|CG|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Take _c5cc
+  - first:
+      74: -7648491294374532534
+    second: CG|CG|CG|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 001|_eb4b
+  - first:
+      74: -8029277255739647768
+    second: CG|CG|CG|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|Tak_0e6d
+  - first:
+      74: -4589419456833065114
+    second: CG|CG|CG|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|Tak_db20
+  - first:
+      74: 3177916645408618276
+    second: CG|CG|CG|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|Tak_ee6b
+  - first:
+      74: 7717226814593076105
+    second: CG|CG|CG|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take 00_216d
+  - first:
+      74: 4051666126729395074
+    second: CG|CG|CG|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|Tak_96fd
+  - first:
+      74: 7139552553156751248
+    second: CG|CG|CG|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02|T_4657
+  - first:
+      74: 8435661666002043510
+    second: CG|CG|CG|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03|T_dfa1
+  - first:
+      74: -3313049388552772017
+    second: CG|Chest|Chest|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take _5
+  - first:
+      74: 1616573749741097533
+    second: CG|Chest|Chest|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|_1
+  - first:
+      74: -3942504517186185957
+    second: CG|Chest|Chest|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Tak_6
+  - first:
+      74: 6265525809542724142
+    second: CG|Chest|Chest|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Tak_0
+  - first:
+      74: 703104537211132622
+    second: CG|Chest|Chest|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Tak_2
+  - first:
+      74: 1529729699177444306
+    second: CG|Chest|Chest|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 00_e
+  - first:
+      74: 7656795886417669586
+    second: CG|Chest|Chest|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Tak_a
+  - first:
+      74: -6915312942618032530
+    second: CG|Chest|Chest|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|T_0
+  - first:
+      74: 2784478063547002953
+    second: CG|Chest|Chest|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|T_7
+  - first:
+      74: -4248747208778820613
+    second: CG|Chest|Chest|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Ta_5
+  - first:
+      74: -3822447164970912261
+    second: CG|Chest|Chest|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 0_8
+  - first:
+      74: 3676676102933253131
+    second: CG|Chest|Chest|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|_b
+  - first:
+      74: 3918463818963219988
+    second: CG|Chest|Chest|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|_c
+  - first:
+      74: 1036167233910063123
+    second: CG|Chest|Chest|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|_0
+  - first:
+      74: -2863747603758480370
+    second: CG|Chest|Chest|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take_5
+  - first:
+      74: 1031943467558163180
+    second: CG|Chest|Chest|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|_4
+  - first:
+      74: -219985073752235379
+    second: CG|Chest|Chest|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail0_3
+  - first:
+      74: -8908267034171085732
+    second: CG|Chest|Chest|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail0_8
+  - first:
+      74: 8033217189026621089
+    second: Chest|Back|Back|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 0_ad
+  - first:
+      74: -3395581908499441631
+    second: Chest|Back|Back|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|Base
+  - first:
+      74: 3770104137587912648
+    second: Chest|Back|Back|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take_30
+  - first:
+      74: -4506320006006715868
+    second: Chest|Back|Back|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take_b8
+  - first:
+      74: 4648711831133752274
+    second: Chest|Back|Back|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take_62
+  - first:
+      74: 1597937196373889609
+    second: Chest|Back|Back|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001_37
+  - first:
+      74: -113370478680154866
+    second: Chest|Back|Back|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take_24
+  - first:
+      74: 5845911393475133741
+    second: Chest|Back|Back|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Ta_ab
+  - first:
+      74: 5032031276518402651
+    second: Chest|Back|Back|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Ta_dd
+  - first:
+      74: 3740759415177244144
+    second: Chest|Back|Back|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Tak_19
+  - first:
+      74: 5571013314275866836
+    second: Chest|Back|Back|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 00_65
+  - first:
+      74: 3163944416373130370
+    second: Chest|Back|Back|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|T_4f
+  - first:
+      74: 7680284364783170231
+    second: Chest|Back|Back|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|T_c9
+  - first:
+      74: -5872663530383609397
+    second: Chest|Back|Back|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|T_16
+  - first:
+      74: -4263677301217745194
+    second: Chest|Back|Back|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take _1d
+  - first:
+      74: -306687854854310833
+    second: Chest|Back|Back|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|T_42
+  - first:
+      74: 2780745360965535311
+    second: Chest|Back|Back|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02_f8
+  - first:
+      74: -758018977307749969
+    second: Chest|Back|Back|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03_25
+  - first:
+      74: -8334971578580348054
+    second: Chest|Chest|Chest|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take _5
+  - first:
+      74: 1549424916567029665
+    second: Chest|Chest|Chest|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|_1
+  - first:
+      74: 738526770608916301
+    second: Chest|Chest|Chest|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Tak_6
+  - first:
+      74: 8051402575279606304
+    second: Chest|Chest|Chest|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Tak_0
+  - first:
+      74: 2279120328113468852
+    second: Chest|Chest|Chest|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Tak_2
+  - first:
+      74: -6387951459209632327
+    second: Chest|Chest|Chest|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 00_e
+  - first:
+      74: -8590750681344608260
+    second: Chest|Chest|Chest|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Tak_a
+  - first:
+      74: -8953081644740241250
+    second: Chest|Chest|Chest|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|T_0
+  - first:
+      74: -8496562912562677634
+    second: Chest|Chest|Chest|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|T_7
+  - first:
+      74: 976906097108858678
+    second: Chest|Chest|Chest|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Ta_5
+  - first:
+      74: 6482004172832942824
+    second: Chest|Chest|Chest|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 0_8
+  - first:
+      74: 5641537043012630397
+    second: Chest|Chest|Chest|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|_b
+  - first:
+      74: 6211333023533529699
+    second: Chest|Chest|Chest|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|_c
+  - first:
+      74: 5899417121899918029
+    second: Chest|Chest|Chest|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|_0
+  - first:
+      74: 4537271379546721819
+    second: Chest|Chest|Chest|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take_5
+  - first:
+      74: -3109415920895868254
+    second: Chest|Chest|Chest|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|_4
+  - first:
+      74: 9041169073924039365
+    second: Chest|Chest|Chest|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail0_3
+  - first:
+      74: 8644428539437957198
+    second: Chest|Chest|Chest|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail0_8
+  - first:
+      74: -5738330949799339953
+    second: Back|Back|Back|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take 0_ad
+  - first:
+      74: -1656890126670067808
+    second: Back|Back|Back|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|Base
+  - first:
+      74: 2487206070334196979
+    second: Back|Back|Back|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Take_30
+  - first:
+      74: 4108228334724720094
+    second: Back|Back|Back|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Take_b8
+  - first:
+      74: 5045278246489050520
+    second: Back|Back|Back|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Take_62
+  - first:
+      74: 8165876663412500282
+    second: Back|Back|Back|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 001_37
+  - first:
+      74: 5925608399052032800
+    second: Back|Back|Back|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Take_24
+  - first:
+      74: 6405969509176814340
+    second: Back|Back|Back|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|Ta_ab
+  - first:
+      74: 4664011212034779220
+    second: Back|Back|Back|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|Ta_dd
+  - first:
+      74: -6140397122206915358
+    second: Back|Back|Back|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Tak_19
+  - first:
+      74: -162766554509081549
+    second: Back|Back|Back|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 00_65
+  - first:
+      74: 5882993923931854862
+    second: Back|Back|Back|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|T_4f
+  - first:
+      74: 346086764513361811
+    second: Back|Back|Back|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|T_c9
+  - first:
+      74: -9142131194143484470
+    second: Back|Back|Back|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|T_16
+  - first:
+      74: 5349854764830668836
+    second: Back|Back|Back|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take _1d
+  - first:
+      74: 959977029706642555
+    second: Back|Back|Back|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|T_42
+  - first:
+      74: -7479811541829240061
+    second: Back|Back|Back|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail02_f8
+  - first:
+      74: -8499035482800837313
+    second: Back|Back|Back|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail03_25
+  - first:
+      74: -2054377995112173092
+    second: Back|Chest|Chest|Back|Back|Back|Take 001|BaseLayer|Back|Back|Take _5
+  - first:
+      74: 3049484230111238446
+    second: Back|Chest|Chest|Back|Back|CG|Take 001|BaseLayer|Back|CG|Take 001|_1
+  - first:
+      74: -8827433035421384263
+    second: Back|Chest|Chest|Back|Back|Chest|Take 001|BaseLayer|Back|Chest|Tak_6
+  - first:
+      74: 7562917018616841521
+    second: Back|Chest|Chest|Back|Back|Ear L|Take 001|BaseLayer|Back|Ear L|Tak_0
+  - first:
+      74: 1410706174750882367
+    second: Back|Chest|Chest|Back|Back|Ear R|Take 001|BaseLayer|Back|Ear R|Tak_2
+  - first:
+      74: 2654305200778146527
+    second: Back|Chest|Chest|Back|Back|Jaw|Take 001|BaseLayer|Back|Jaw|Take 00_e
+  - first:
+      74: -4549148094454930840
+    second: Back|Chest|Chest|Back|Back|Neck2|Take 001|BaseLayer|Back|Neck2|Tak_a
+  - first:
+      74: 8364810771084954205
+    second: Back|Chest|Chest|Back|Back|Tail02|Take 001|BaseLayer|Back|Tail02|T_0
+  - first:
+      74: -3187410754824122555
+    second: Back|Chest|Chest|Back|Back|Tail03|Take 001|BaseLayer|Back|Tail03|T_7
+  - first:
+      74: -6810547045871206936
+    second: Back|Chest|Chest|Chest|Chest|Back|Take 001|BaseLayer|Chest|Back|Ta_5
+  - first:
+      74: -7922566549582304847
+    second: Back|Chest|Chest|Chest|Chest|CG|Take 001|BaseLayer|Chest|CG|Take 0_8
+  - first:
+      74: -3011161337859837158
+    second: Back|Chest|Chest|Chest|Chest|Chest|Take 001|BaseLayer|Chest|Chest|_b
+  - first:
+      74: -1163747916694675027
+    second: Back|Chest|Chest|Chest|Chest|Ear L|Take 001|BaseLayer|Chest|Ear L|_c
+  - first:
+      74: 1828913667335899691
+    second: Back|Chest|Chest|Chest|Chest|Ear R|Take 001|BaseLayer|Chest|Ear R|_0
+  - first:
+      74: 2928047220943479602
+    second: Back|Chest|Chest|Chest|Chest|Jaw|Take 001|BaseLayer|Chest|Jaw|Take_5
+  - first:
+      74: 4278006310787212506
+    second: Back|Chest|Chest|Chest|Chest|Neck2|Take 001|BaseLayer|Chest|Neck2|_4
+  - first:
+      74: -2419443559800627192
+    second: Back|Chest|Chest|Chest|Chest|Tail02|Take 001|BaseLayer|Chest|Tail0_3
+  - first:
+      74: -1181276054395054841
+    second: Back|Chest|Chest|Chest|Chest|Tail03|Take 001|BaseLayer|Chest|Tail0_8
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

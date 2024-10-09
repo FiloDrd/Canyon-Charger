@@ -1,0 +1,55 @@
+sensibilità del giocatore ---> "sensibility"
+
+controllo se la nightmode è attivata ---> "nightmode"
+
+volume della musica ---> "music"
+
+volume degli effetti speciali ---> "SFX"
+
+booleano se il gioco è in pausa ---> "isPaused"
+
+livelli dei powerups ---> "pow1","pow2","pow3","pow4"
+
+valuta del gioco ---> "money"
+
+ID della skin del cavallo attualmente attiva ---> "nowActive"
+
+ID della skin del cavallo attualmente SELEZIONATA nell'elenco skin (con selezionata si intende quella che appare sullo schermo) ---> "IDSelected"
+
+Stringa contenente 0 e 1 in base alla skin nella poszione corrispondente è sbloccata ---> "unlockedHorses"
+
+Bool se il magnete è attivo --->"isMagnetActive"
+
+Bool se la lattina è attiva --->"isLattinaActive"
+
+Bool is game over ---> "isGameOver"
+
+int su quale modalità è attiva ---> "mode" (1 per la modalità infinita, 2 per la modalità a livelli)
+
+int sul livello corrente --->"level"
+
+int sul punteggio maggiore corrente --->"highscore"
+
+Bool is level completed --->"isCompleted"
+
+timer dell'annuncio allo start ---> "adTimerStart"
+
+volte rimanenti ----> "timesToGo"
+
+Metodo di input selezionato ---> "inputType" (1 per quello standard, 2 Per quello con il pulsante)
+
+bool se hai guardato i 4 video per la skin giornalieri ---> "dailySpin"
+
+Nota per aggiungere una nuova skin, cosa fare:
+START MENU:
+	1) Creare un prefab con una componente di animator con il controller chilling e aggiungerlo nella schermata ad una distanza di 540 px dal cavallo precedente
+	2) Assegnare il Prefab all'array di cavalli nell'oggetto SkinManager
+	3) Assegnare il relativo Lucchetto all'array di lucchetti nell'oggetto SkinManager
+	4) Aggiungere la descrizione del cavallo nel file json
+	5) Aggiornare la lunghezza del player pref "unlockedHorses"
+MODALITA' INFINITA E MODALITA' A LIVELLI
+	1) Creare un prefab con una componente di animator con il controller Run e assegnarlo all'array
+	2)assegna al cavallo precedente il tag GraficaCavallo
+
+
+indice di cavalli di rarità 1: da 0 a 7

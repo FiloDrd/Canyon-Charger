@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: fba57b56bf20e5f419d5f506ee11b160
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3622091454455382226
+    second: CG|Back|Take 001|BaseLayer
+  - first:
+      74: 58475473422249957
+    second: CG|CG|Take 001|BaseLayer
+  - first:
+      74: 8858836746857907198
+    second: CG|CG|Take 001|BaseLayer.001
+  - first:
+      74: 9009325401580581409
+    second: CG|Chest|Take 001|BaseLayer
+  - first:
+      74: -6505787537433671425
+    second: CG|Ear L|Take 001|BaseLayer
+  - first:
+      74: 837579970273895142
+    second: CG|Ear R|Take 001|BaseLayer
+  - first:
+      74: -5188083420615705151
+    second: CG|Jaw|Take 001|BaseLayer
+  - first:
+      74: -806855268648048099
+    second: CG|Neck2|Take 001|BaseLayer
+  - first:
+      74: 7758417251991954834
+    second: CG|Tail02|Take 001|BaseLayer
+  - first:
+      74: -8570468218273737652
+    second: CG|Tail03|Take 001|BaseLayer
+  - first:
+      74: 2340196899906903498
+    second: Chest|Back|Take 001|BaseLayer
+  - first:
+      74: -6708520696921397163
+    second: Chest|CG|Take 001|BaseLayer
+  - first:
+      74: 6867125882250782677
+    second: Chest|Chest|Take 001|BaseLayer
+  - first:
+      74: -52436110905547536
+    second: Chest|Ear L|Take 001|BaseLayer
+  - first:
+      74: -7097932718419604704
+    second: Chest|Ear R|Take 001|BaseLayer
+  - first:
+      74: -4909986952688614190
+    second: Chest|Jaw|Take 001|BaseLayer
+  - first:
+      74: -3515499657852340008
+    second: Chest|Neck2|Take 001|BaseLayer
+  - first:
+      74: -3547053354169944524
+    second: Chest|Tail02|Take 001|BaseLayer
+  - first:
+      74: -2365593541216435928
+    second: Chest|Tail03|Take 001|BaseLayer
+  - first:
+      74: 3076917121894085529
+    second: Back|Back|Take 001|BaseLayer
+  - first:
+      74: 6015783815019224132
+    second: Back|CG|Take 001|BaseLayer
+  - first:
+      74: -1312329930737668578
+    second: Back|Chest|Take 001|BaseLayer
+  - first:
+      74: -2292583699266973177
+    second: Back|Ear L|Take 001|BaseLayer
+  - first:
+      74: 52629696325146500
+    second: Back|Ear R|Take 001|BaseLayer
+  - first:
+      74: -823035987993524398
+    second: Back|Jaw|Take 001|BaseLayer
+  - first:
+      74: 8659830269843257611
+    second: Back|Neck2|Take 001|BaseLayer
+  - first:
+      74: 6829041270547439843
+    second: Back|Tail02|Take 001|BaseLayer
+  - first:
+      74: -6549298644048484227
+    second: Back|Tail03|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: CG
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,108 @@
+{
+	"skinData": [
+		{
+			"ID" : 0,
+			"name" : "Canyon Horse",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : true
+		},
+		{
+			"ID" : 1,
+			"name" : "Ignacio",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 2,
+			"name" : "Humberto",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 3,
+			"name" : "Rudolf",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 4,
+			"name" : "Gustavo",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 5,
+			"name" : "Patricio",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 6,
+			"name" : "Juan",
+			"rarity": "Rarity: ★☆☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 7,
+			"name" : "Halfinger",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 8,
+			"name" : "Camargue",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 9,
+			"name" : "Copper",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 10,
+			"name" : "Black Moon",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 11,
+			"name" : "Zebra",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 12,
+			"name" : "Total White",
+			"rarity": "Rarity: ★★☆☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 13,
+			"name" : "Silver",
+			"rarity": "Rarity: ★★★☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 14,
+			"name" : "24K",
+			"rarity": "Rarity: ★★★☆",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 15,
+			"name" : "Blocky Horse",
+			"rarity": "Rarity: ★★★★",
+			"isUnlocked" : false
+		},
+		{
+			"ID" : 16,
+			"name" : "RGB juan",
+			"rarity": "Rarity: ★★★★",
+			"isUnlocked" : false
+		}
+		
+		
+	]
+}
